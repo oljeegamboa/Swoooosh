@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">SwooshOljee</string>
+    <string name="N">Next</string>
+    <string name="M">Mens</string>
+    <string name="W">Womens</string>
+    <string name="C">Co-ed</string>
+    <string name="app_name">Swoosh</string>
+    <string name="t1">GO ALL IN</string>
+    <string name="t2">On going all out</string>
+    <string name="t3">Find a team in your city and dominate</string>
+    <string name="t4">the league</string>
+    <string name="nbutton">GET STARTED</string>
+    <string name="league">Desired League: </string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
+    <string name="iam">I am:</string>
 </resources>
